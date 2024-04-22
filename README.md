@@ -2,7 +2,7 @@ Below is a basic README file template for a frontend and backend application tha
 
 <h1>CRUD Operations with React.js<h1/> <br />
 
-This project demonstrates how to perform CRUD (Create, Read, Update, Delete) operations using React.js for the frontend and a backend server.
+<p>This project demonstrates how to perform CRUD (Create, Read, Update, Delete) operations using React.js for the frontend and a backend server.
 
 Features
 
@@ -94,5 +94,5 @@ Distributed under the MIT License. See LICENSE for more information.
 
 Contact :
 
-shaguftamuqeeeem2000@gmail.com
+shaguftamuqeeeem2000@gmail.com </p>
 
